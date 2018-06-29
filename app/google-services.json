@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238643633025",
+    "firebase_url": "https://jplay-1era.firebaseio.com",
+    "project_id": "jplay-1era",
+    "storage_bucket": "jplay-1era.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238643633025:android:c7c9abe60a75ed8b",
+        "android_client_info": {
+          "package_name": "jislap1.lenovo.com.jplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238643633025-sbddloee7ativmg0mlsvu3v02hdj4mld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jislap1.lenovo.com.jplay",
+            "certificate_hash": "ccfde56c13792741a85585561e5675d9ef062c14"
+          }
+        },
+        {
+          "client_id": "238643633025-aq3i05sp0u70rt8dqt564qkiqp8234mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1-a1qcAUvD-ITtDihqSj71FZBb9B51MU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238643633025-aq3i05sp0u70rt8dqt564qkiqp8234mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
